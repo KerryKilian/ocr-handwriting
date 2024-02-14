@@ -1,0 +1,10 @@
+all_characters
+plots
+__pycache__
+test_images_characters
+test_images_words
+AlexNet-32-5000-64-20-001-99-16/
+lenet5-32-5000-64-10-001-99-16/
+resnet50-32-5000-64-10-001-99-16/
+ResNeXt50-128-5000-64-10-001-99-16/
+~$Projektpräsentation.pptx
